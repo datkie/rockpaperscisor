@@ -1,0 +1,109 @@
+body{
+    background-color:royalblue;
+}
+.rocks{
+    background-image:url(ssss.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:600px;
+    width:800px;
+    margin:auto;
+    display:block
+   
+}
+#submit{
+    color:white;
+    background-color: #344235; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 1em;
+}
+#submits{
+    color:white;
+    background-color: #354436; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 1em;
+}
+#submitss{
+
+    background-color: #353f35; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 1em;
+}
+#answers{
+    background-color: #144633;
+    color: white;
+    width: 100px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #3CBC8D;
+    color: white;
+    border-radius: 7em;
+  
+}
+#indi{
+    
+     
+    color: rgb(30, 224, 5);
+    background-color:black;
+    width:50px;
+  
+}
+#life{
+    
+    color: rgb(30, 224, 5);
+    background-color:black;
+    width:50px;
+  
+}
+#score{
+    
+ 
+    
+    color: rgb(30, 224, 5);
+    background-color:black;
+    width:50px;
+}
+h1{
+    
+    color: white;
+  
+}
+#result{
+    
+  
+    color: rgb(30, 224, 5);
+    background-color:black;
+    width:100px;
+
+  
+}
+#answerbot{
+    
+    color: rgb(56, 241, 0);
+  
+}
+#you{
+    
+    color: rgb(56, 241, 0);
+  
+}
